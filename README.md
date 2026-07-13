@@ -315,7 +315,7 @@ Before running the project, install:
 ## Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/codestantceasar/Spotlight--formative-assignment-2
 ```
 
 Navigate into the project:
