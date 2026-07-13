@@ -29,7 +29,7 @@ Many students struggle to find meaningful internship opportunities, while startu
 
 # 🎯 Problem Statement
 
-Within university ecosystems, students often have valuable skills but lack visibility among organizations that need their expertise.
+Within our university ecosystems, students often have valuable skills but lack visibility among organizations that need their expertise.
 
 At the same time, student startups require contributors but lack efficient ways to identify suitable candidates.
 
