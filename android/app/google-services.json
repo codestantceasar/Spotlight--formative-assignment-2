@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "74259672676",
+    "project_id": "spotlight-df034",
+    "storage_bucket": "spotlight-df034.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74259672676:android:d12f1fb4bd5e78f350f971",
+        "android_client_info": {
+          "package_name": "com.example.spotlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74259672676-el8va7rnbjqa3djm0h9nfvd2vvb1rqkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KhyGCJFQuJ_eP6mhzcTAwbf9T2FcpDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74259672676-el8va7rnbjqa3djm0h9nfvd2vvb1rqkh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74259672676-9nnmul4maosvr7a9ntkdoh2snncdh52n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spotlight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
